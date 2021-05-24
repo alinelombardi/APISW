@@ -2,6 +2,7 @@
 
 ​Essa aplicação cadastra, lista, busca e remove planetas do mundo do Star Wars, foi desenvolvida em Node.Js e MongoDb.
 
+
 - Execução do arquivo
 
 * Clonar o repositório
