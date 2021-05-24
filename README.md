@@ -5,11 +5,11 @@
 
 # Execução do arquivo
 
-* Clonar o repositório
+* Clonar o repositório - no terminar digitar git clone https://github.com/alinelombardidev/APISW.git
 * npm install
 * npm install nodemon
 * npm install dependencies
-* para executar o arquivo, npm run dev
+* para executar o arquivo: npm run dev
 
 
 # Visualização
