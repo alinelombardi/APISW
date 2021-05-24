@@ -3,7 +3,7 @@
 ​Essa aplicação cadastra, lista, busca e remove planetas do mundo do Star Wars, foi desenvolvida em Node.Js e MongoDb.
 
 
-- Execução do arquivo
+# Execução do arquivo
 
 * Clonar o repositório
 * npm install
@@ -12,5 +12,5 @@
 * para executar o arquivo, npm run dev
 
 
-- Visualização
+# Visualização
 O projeto pode ser vizualizado através de aplicações externas como Postman.
